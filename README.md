@@ -1,1 +1,1 @@
-# Java_Apprentice Test Project Repository
+# Threshold comparison - Test Project
